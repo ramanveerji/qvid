@@ -1,3 +1,6 @@
+[![Supported By](https://raw.githubusercontent.com/tuhinpal/tuhinpal/master/supported-by-banner.svg)](https://ddevi.com/?utm_source=tuhin_github_qvid)
+
+
 ![file txt](https://github.com/tuhinpal/qvid/assets/51857187/17848901-6e67-439c-b892-d97faea49dc2)
 
 
